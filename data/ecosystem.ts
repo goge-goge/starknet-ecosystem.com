@@ -773,4 +773,21 @@ export const allProjects: Array<Project> = [
     isLive: true,
     isTestnetLive: true,
   },
+  {
+    name: "NFTflow",
+    short_name: "NFTflow",
+    description:
+      "NFTflow is a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs) on StarkNet.",
+    tags: ["NFT"],
+    logo: "nftflow.png",
+    website: "https://nftflow.gw.to/",
+    github: "https://github.com/nftflow/NFTflow-protocol",
+    twitter: "https://twitter.com/NftflowStarkNet",
+    medium: "",
+    discord:
+      "",
+    telegram: "",
+    isLive: true,
+    isTestnetLive: true,
+  },
 ];
